@@ -2,7 +2,7 @@
 // @param arr The given array.
 function reverseArray(arr) {
   // TODO: Finish the right side of the next line. Do not change anything else.
-  let result = null;
+  let result = arr.reverse();
   return result;
 }
 
